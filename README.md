@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Douglas Albuquerque 👋</h1>
 
 <h3 align="center">
-Infraestrutura Linux | Automação com Python | Cloud Computing (AWS) | DevOps | Alta Disponibilidade
+Especialista em Infraestrutura Linux e Operações Críticas | Automação com Python | Cloud Computing (AWS) | DevOps
 </h3>
 
 <p align="center">
