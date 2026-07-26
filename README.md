@@ -1,31 +1,49 @@
-<h1 align="center">Olá! Eu sou Douglas Albuquerque 👋</h1>
+<h1 align="center">Olá, eu sou Douglas Albuquerque 👋</h1>
 
 <h3 align="center">
-Supervisor Operacional • Linux • DevOps • Cloud • Automação
+Infraestrutura Linux | Automação com Python | Cloud Computing (AWS) | DevOps | Alta Disponibilidade
 </h3>
 
 <p align="center">
-Atualmente em transição para Engenharia DevOps, aplicando mais de 15 anos de experiência em Infraestrutura, Redes e Operações Críticas na construção de ambientes modernos utilizando Cloud, Containers e Automação.
+Profissional com mais de 15 anos de experiência em Infraestrutura de TI, Redes e Operações Críticas, atuando na administração de ambientes Linux, automação de processos, homologação de soluções e liderança técnica de operações.
+</p>
+
+<p align="center">
+Utilizo este GitHub para documentar projetos, laboratórios e automações relacionados à Infraestrutura, Cloud Computing e práticas modernas de DevOps.
 </p>
 
 ---
 
-# 🚀 Sobre mim
+# Sobre mim
 
-- 💼 Supervisor Operacional na Atlanta Tecnologia
-- 🐧 Especialista em Linux e Infraestrutura
-- ☁️ Estudando AWS Cloud
-- ⚙️ Apaixonado por Automação com Python
-- 🐳 Entusiasta de Docker e Kubernetes
-- 🖥️ Laboratório próprio utilizando Proxmox
-- 📚 Pós-graduação em Cibersegurança com foco em DevOps
-- 🎯 Objetivo: atuar como Engenheiro DevOps
+Ao longo da minha carreira atuei em diferentes áreas da infraestrutura de TI, passando por suporte corporativo, automação bancária, telecomunicações, operações críticas e liderança técnica.
+
+Atualmente na Atlanta Tecnologia, sendo responsável pela sustentação de ambientes críticos, automação de processos, homologação de equipamentos, análise de indicadores operacionais e desenvolvimento de soluções para aumentar a eficiência das operações.
+
+Paralelamente mantenho um laboratório próprio onde desenvolvo, documento e valido arquiteturas e soluções voltadas para Infraestrutura, Cloud Computing, Containers, CI/CD e Infraestrutura como Código.
+
+Meu objetivo é compartilhar conhecimento, registrar decisões técnicas e construir um portfólio sólido baseado em projetos reais.
 
 ---
 
-# 🛠️ Tecnologias
+# Especialidades
 
-## Sistemas Operacionais
+- Infraestrutura Linux
+- Automação de Processos com Python
+- Redes Corporativas
+- Operações Críticas e Alta Disponibilidade
+- Cloud Computing (AWS)
+- Virtualização
+- Containers
+- CI/CD
+- Homologação de Soluções
+- Troubleshooting
+
+---
+
+# Stack Principal
+
+### Sistemas Operacionais
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -33,101 +51,108 @@ Atualmente em transição para Engenharia DevOps, aplicando mais de 15 anos de e
 
 ---
 
-## Cloud
+### Cloud
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 
 ---
 
-## Containers
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
-
----
-
-## CI/CD
-
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
----
-
-## Virtualização
+### Virtualização
 
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware)
 
 ---
 
-## Monitoramento
+### Containers
 
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana)
-![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 
 ---
 
-## Linguagens
+### Automação
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash)
 
 ---
 
-# 🔥 Atualmente estudando
+### DevOps
 
-- Kubernetes
-- GitOps
-- Terraform
-- Ansible
-- AWS
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
+
+---
+
+# Laboratório de Infraestrutura, Cloud e DevOps
+
+Mantenho um laboratório próprio voltado ao desenvolvimento, validação e documentação de soluções de Infraestrutura, Cloud Computing e DevOps.
+
+O ambiente é utilizado para reproduzir cenários encontrados em ambientes corporativos, permitindo explorar arquiteturas, automação, virtualização, containers, observabilidade e infraestrutura como código de forma prática e estruturada.
+
+Cada implementação é documentada com foco nas decisões técnicas, arquitetura adotada, desafios encontrados e lições aprendidas, servindo como portfólio técnico e base para compartilhamento de conhecimento.
+
+As tecnologias e componentes do laboratório evoluem continuamente à medida que novas soluções são implementadas e documentadas.
+
+---
+
+# Repositórios em Destaque
+
+Em constante construção.
+
+Nos próximos meses este GitHub concentrará projetos relacionados a:
+
+- Infraestrutura como Código
+- Containers
 - CI/CD
+- Automação
 - Observabilidade
-- Docker Swarm
-- Helm
+- Cloud Computing
+- Scripts Python
+- Administração Linux
+- Laboratório de Infraestrutura, Cloud e DevOps
 
 ---
 
-# 🧪 Homelab
+# Desenvolvimento Profissional
 
-Meu laboratório é utilizado para aprender tecnologias utilizadas em ambientes corporativos.
+Atualmente mantenho um processo contínuo de evolução técnica por meio de projetos práticos, laboratórios próprios e capacitação profissional.
 
-Atualmente contém:
+Entre os principais focos de desenvolvimento estão:
 
-- Proxmox VE
-- Docker
-- Docker Compose
+- AWS Cloud Computing
 - Kubernetes
-- GitLab
-- Jenkins
-- Gitea
-- Nginx
-- Zabbix
-- Grafana
-- VPN
-- VLANs
-- Linux Server
-- Automações em Python
-
----
-
-# 📈 Objetivos para 2026
-
-- AWS Cloud Practitioner
 - Terraform
 - Ansible
-- Kubernetes
-- GitOps
-- Engenharia DevOps
+- Observabilidade
+- Arquiteturas Cloud Native
+- Segurança em Ambientes DevOps
 
 ---
 
-# 📫 Contato
+# Formação
 
-📧 adb.albuquerque@gmail.com
+🎓 Tecnólogo em Redes de Computadores
 
-💼 LinkedIn
+🎓 Pós-graduação em Cibersegurança com foco em DevOps *(em andamento)*
+
+📘 AWS Certified Cloud Practitioner (CLF-C02) — Preparação para certificação oficial
+
+---
+
+# Contato
+
+📧 **E-mail**
+
+adb.albuquerque@gmail.com
+
+💼 **LinkedIn**
 
 https://linkedin.com/in/douglasalbuquerque-ti
+
+---
+
+<p align="center">
+<i>"Tecnologia não é apenas sobre ferramentas. É sobre construir soluções confiáveis, escaláveis e bem documentadas."</i>
+</p>
